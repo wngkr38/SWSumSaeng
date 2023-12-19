@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1000135389349",
+    "firebase_url": "https://upload-retrieve-image-c7811-default-rtdb.firebaseio.com",
+    "project_id": "upload-retrieve-image-c7811",
+    "storage_bucket": "upload-retrieve-image-c7811.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000135389349:android:6c22d2f865803327b65d4c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000135389349-kjinmrvjh8tb8vo4adku0kclcc12j3cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGnj4ULtNxLi87rup9fb4aCV7KHLirok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000135389349-kjinmrvjh8tb8vo4adku0kclcc12j3cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000135389349:android:cc79f369734047f9b65d4c",
+        "android_client_info": {
+          "package_name": "com.example.uploadretrieveimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1000135389349-kjinmrvjh8tb8vo4adku0kclcc12j3cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfGnj4ULtNxLi87rup9fb4aCV7KHLirok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1000135389349-kjinmrvjh8tb8vo4adku0kclcc12j3cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
